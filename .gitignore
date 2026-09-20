@@ -1,0 +1,58 @@
+# Secrets and credentials
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+credential*.json
+credentials*.json
+service-account*.json
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+.python-version
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# Local development artifacts
+clasp_pull/
+clasp_work/
+.env.local
+.env.development
+.env.production
+
+# References — private Reference DB never enters this repo
+references/
+Reference DB/
+**/KuizKu/
+**/kuizku/references
+
+# Runtime encrypted artifacts (decryption keys must NEVER be in repo)
+*.enc
+*.enc.meta.json
+*.meta.json
+runtime-keys/
+runtime-keys/
+
+# Local working files
+_local_workspace/
+_tmp/
+scratch/

@@ -1,0 +1,671 @@
+[
+  {
+    "year": "Tahun 1",
+    "totalQuestions": 100,
+    "bySubject": {
+      "Bahasa Melayu": {
+        "count": 30,
+        "topics": {
+          "Mendengar & Bertutur": 5,
+          "Membaca (Suku Kata / Perkataan Mudah)": 8,
+          "Penulisan (Huruf / Perkataan / Ayat Mudah)": 6,
+          "Tatabahasa (Imbuhan, Kata Nama, Kata Kerja)": 5,
+          "Perbendaharaan Kata (Sinonim / Antonim Mudah)": 3,
+          "Pemahaman (Teks Pendek / Cerita Pendek)": 3
+        },
+        "skillType": [
+          "RECOGNITION",
+          "COMPREHENSION",
+          "APPLICATION"
+        ],
+        "difficultyDistribution": {
+          "easy": 60,
+          "medium": 30,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[BM Y1 module practice set]",
+          "[BM Y1 module practice set]",
+          "[BM Y1 module practice set]"
+        ]
+      },
+      "Mathematics": {
+        "count": 28,
+        "topics": {
+          "Nombor Bulat 0–100": 6,
+          "Tambah & Tolak (Dalam 0–100)": 6,
+          "Pola & Jujukan": 3,
+          "Masa & Waktu (Jam, Hari)": 3,
+          "Panjang (cm, m — Perbandingan Mudah)": 2,
+          "Wang (Syiling & Nota)": 3,
+          "Bentuk 3D & 2D": 2,
+          "Data (Carta Mudah)": 3
+        },
+        "skillType": [
+          "RECOGNITION",
+          "APPLICATION",
+          "PROBLEM_SOLVING"
+        ],
+        "difficultyDistribution": {
+          "easy": 55,
+          "medium": 35,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[Math MOBIM workbook]",
+          "primary/Math/Tahun1/exercises/kemon/*.pdf (where applicable)"
+        ]
+      },
+      "Science": {
+        "count": 22,
+        "topics": {
+          "Tumbuhan (Ciri & Kitaran Hidup)": 4,
+          "Haiwan (Ciri & Tingkah Laku)": 4,
+          "Manusia (Tubuh, Kesihatan)": 4,
+          "Benda Bukan Hidup (Ciri)": 3,
+          "Bahan (Kayu, Kertas, Logam, Plastik)": 3,
+          "Cuaca & Musim": 2,
+          "Magnet (Pengenalan)": 2
+        },
+        "skillType": [
+          "RECOGNITION",
+          "COMPREHENSION",
+          "APPLICATION"
+        ],
+        "difficultyDistribution": {
+          "easy": 60,
+          "medium": 30,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[Science MOBIM workbook]"
+        ]
+      },
+      "Bahasa Inggeris": {
+        "count": 20,
+        "topics": {
+          "Listening & Speaking (Greetings, Instructions)": 4,
+          "Reading (Phonics, Sight Words)": 6,
+          "Writing (Letters, Words, Simple Sentences)": 5,
+          "Grammar (Articles, Plurals, Verbs)": 3,
+          "Vocabulary (Colours, Animals, Family)": 2
+        },
+        "skillType": [
+          "RECOGNITION",
+          "COMPREHENSION",
+          "APPLICATION"
+        ],
+        "difficultyDistribution": {
+          "easy": 60,
+          "medium": 30,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[TAHUN1 reference material]"
+        ]
+      }
+    }
+  },
+  {
+    "year": "Tahun 2",
+    "totalQuestions": 100,
+    "bySubject": {
+      "Bahasa Melayu": {
+        "count": 30,
+        "topics": {
+          "Membaca (Petikan Pendek, Cerita)": 8,
+          "Penulisan (Ayat Tunggal)": 6,
+          "Tatabahasa (Imbuhan me-/ber-, Kata Ganti)": 5,
+          "Perbendaharaan Kata (Sinonim / Antonim)": 3,
+          "Pemahaman (Petikan / Cerita Pendek)": 5,
+          "Sajak & Peribahasa (Pengenalan)": 3
+        },
+        "skillType": [
+          "RECOGNITION",
+          "COMPREHENSION",
+          "APPLICATION"
+        ],
+        "difficultyDistribution": {
+          "easy": 55,
+          "medium": 35,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[BM Y2 module practice set]",
+          "[BM Y2 module practice set]",
+          "[BM Y2 module practice set]"
+        ]
+      },
+      "Mathematics": {
+        "count": 28,
+        "topics": {
+          "Nombor Bulat 0–1000": 5,
+          "Tambah, Tolak, Darab, Bahagi (Asas)": 8,
+          "Pecahan (Setengah, Suku)": 3,
+          "Wang (Sen, Ringgit)": 3,
+          "Panjang / Jisim / Isipadu Cecair": 4,
+          "Masa & Waktu (Jam, Hari, Bulan)": 2,
+          "Bentuk 3D & 2D": 2,
+          "Data (Piktograf)": 1
+        },
+        "skillType": [
+          "RECOGNITION",
+          "APPLICATION",
+          "PROBLEM_SOLVING"
+        ],
+        "difficultyDistribution": {
+          "easy": 50,
+          "medium": 40,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[Math MOBIM workbook]",
+          "[TAHUN2 reference material]"
+        ]
+      },
+      "Science": {
+        "count": 22,
+        "topics": {
+          "Tumbuhan (Ciri & Kepelbagaian)": 3,
+          "Haiwan (Ciri & Kepelbagaian)": 3,
+          "Manusia (Sistem Tubuh)": 4,
+          "Benda Hidup & Bukan Hidup": 3,
+          "Bahan (Ciri & Kegunaan)": 3,
+          "Tenaga (Haba, Cahaya)": 3,
+          "Bumi & Angkasa (Cuaca, Musim)": 3
+        },
+        "skillType": [
+          "RECOGNITION",
+          "COMPREHENSION",
+          "APPLICATION"
+        ],
+        "difficultyDistribution": {
+          "easy": 55,
+          "medium": 35,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[Science MOBIM workbook]",
+          "primary/Science/Tahun2/chinese_workbooks/*.pdf"
+        ]
+      },
+      "Bahasa Inggeris": {
+        "count": 20,
+        "topics": {
+          "Reading (Simple Texts, Stories)": 6,
+          "Writing (Sentences, Descriptions)": 4,
+          "Grammar (Singular/Plural, Present Tense)": 4,
+          "Vocabulary (School, Home, Food)": 4,
+          "Listening Comprehension": 2
+        },
+        "skillType": [
+          "RECOGNITION",
+          "COMPREHENSION",
+          "APPLICATION"
+        ],
+        "difficultyDistribution": {
+          "easy": 50,
+          "medium": 40,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[English mid-year assessment]",
+          "[English UASA exam paper]"
+        ]
+      }
+    }
+  },
+  {
+    "year": "Tahun 3",
+    "totalQuestions": 100,
+    "bySubject": {
+      "Bahasa Melayu": {
+        "count": 30,
+        "topics": {
+          "Membaca (Petikan, Cerita, Puisi Pendek)": 6,
+          "Penulisan (Karangan Pendek, Ayat Majmuk)": 6,
+          "Tatabahasa (Kata Hubung, Imbuhan ber-/me-/ter-)": 6,
+          "Perbendaharaan Kata (Sinonim, Antonim, Peribahasa)": 3,
+          "Pemahaman (Petikan Pelbagai Jenis)": 5,
+          "Sajak & Peribahasa": 4
+        },
+        "skillType": [
+          "RECOGNITION",
+          "COMPREHENSION",
+          "APPLICATION"
+        ],
+        "difficultyDistribution": {
+          "easy": 45,
+          "medium": 45,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[BM Y3 module practice set]",
+          "[BM Y3 module practice set]",
+          "[BM Y3 conjunctions reference]"
+        ]
+      },
+      "Mathematics": {
+        "count": 28,
+        "topics": {
+          "Nombor Bulat 0–10,000": 4,
+          "Operasi Asas (Tambah, Tolak, Darab, Bahagi)": 6,
+          "Pecahan (Setengah, Suku, Perenam, Perlapan)": 3,
+          "Perpuluhan (Sepuluh, Persepuluh)": 2,
+          "Wang (Pengiraan)": 2,
+          "Panjang, Jisim, Isipadu Cecair": 4,
+          "Masa & Waktu (Kalendar, Jam)": 2,
+          "Bentuk 3D & 2D, Sudut": 2,
+          "Peratusan (Pengenalan)": 1,
+          "Data (Carta Palang, Piktograf)": 2
+        },
+        "skillType": [
+          "APPLICATION",
+          "PROBLEM_SOLVING",
+          "ANALYSIS"
+        ],
+        "difficultyDistribution": {
+          "easy": 45,
+          "medium": 45,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[TAHUN3 reference material]",
+          "[TAHUN3 reference material]",
+          "[TAHUN3 reference material]",
+          "[TAHUN3 reference material]"
+        ]
+      },
+      "Science": {
+        "count": 22,
+        "topics": {
+          "Tumbuhan (Proses Kehidupan)": 3,
+          "Haiwan (Tabiat, Habitat)": 3,
+          "Manusia (Sistem Pencernaan, Pernafasan)": 4,
+          "Haiwan & Tumbuhan Kepelbagaian": 3,
+          "Bahan (Sifat & Perubahan)": 2,
+          "Tenaga (Haba, Cahaya, Elektrik)": 4,
+          "Bumi & Angkasa (Cuaca, Planet)": 3
+        },
+        "skillType": [
+          "RECOGNITION",
+          "COMPREHENSION",
+          "APPLICATION"
+        ],
+        "difficultyDistribution": {
+          "easy": 50,
+          "medium": 40,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[Science PAT exam paper]",
+          "primary/Science/Tahun3/mobim/*.pdf",
+          "primary/Science/Tahun3/chinese_workbooks/*.pdf"
+        ]
+      },
+      "Bahasa Inggeris": {
+        "count": 20,
+        "topics": {
+          "Reading (Stories, Descriptions)": 6,
+          "Writing (Paragraphs, Letters)": 4,
+          "Grammar (Tenses: Present, Past, Future)": 4,
+          "Vocabulary (Themes: Weather, Transport, Hobbies)": 3,
+          "Comprehension (Short Passages)": 3
+        },
+        "skillType": [
+          "RECOGNITION",
+          "COMPREHENSION",
+          "APPLICATION"
+        ],
+        "difficultyDistribution": {
+          "easy": 50,
+          "medium": 40,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[English UASA exam paper]",
+          "[English UPSA exam paper]",
+          "[English primary textbook]"
+        ]
+      }
+    }
+  },
+  {
+    "year": "Tahun 4",
+    "totalQuestions": 100,
+    "bySubject": {
+      "Bahasa Melayu": {
+        "count": 30,
+        "topics": {
+          "Pemahaman (Petikan Pelbagai Genre)": 6,
+          "Penulisan (Karangan, Surat, Email)": 6,
+          "Tatabahasa (Imbuhan, Kata Hubung, Ayat Majmuk)": 6,
+          "Perbendaharaan Kata (Sinonim, Antonim, Peribahasa)": 4,
+          "Sajak (Puisi Tradisional & Moden)": 3,
+          "Pemahaman Petikan Bergrafik (Carta, Jadual)": 3,
+          "Bahasa Lisan (Pendapat, Hujah)": 2
+        },
+        "skillType": [
+          "COMPREHENSION",
+          "APPLICATION",
+          "ANALYSIS"
+        ],
+        "difficultyDistribution": {
+          "easy": 40,
+          "medium": 50,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[BM Y4 module practice set]",
+          "[BM Y4 module practice set]",
+          "[BM Y4 module practice set]"
+        ]
+      },
+      "Mathematics": {
+        "count": 28,
+        "topics": {
+          "Nombor Bulat (Hingga 100,000)": 3,
+          "Operasi Asas (Tambah, Tolak, Darab, Bahagi)": 5,
+          "Pecahan (Operasi)": 3,
+          "Perpuluhan (Operasi, Persepuluh, Perseratus)": 3,
+          "Peratusan (Aplikasi)": 2,
+          "Wang (Operasi, Diskaun, Cukai)": 2,
+          "Panjang, Jisim, Isipadu Cecair, Masa & Waktu": 5,
+          "Ruang (Isipadu, Luas, Perimeter)": 3,
+          "Koordinat, Nisbah & Kadaran (Pengenalan)": 1,
+          "Pengurusan Data (Purata, Carta Palang)": 1
+        },
+        "skillType": [
+          "APPLICATION",
+          "PROBLEM_SOLVING",
+          "ANALYSIS"
+        ],
+        "difficultyDistribution": {
+          "easy": 40,
+          "medium": 50,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "primary/Math/Tahun4/exercises/kemon/*.pdf",
+          "(JISIM, KOORDINAT, MASA, OPERASI ASAS, PECAHAN, PERATUS, PERPULUHAN, RUANG, WANG, LATIHAN 1)"
+        ]
+      },
+      "Science": {
+        "count": 22,
+        "topics": {
+          "Sistem Tubuh Manusia (Pencernaan, Pernafasan, Peredaran Darah)": 5,
+          "Tumbuhan (Pembiakan, Pengkelasan)": 3,
+          "Haiwan (Tabiat Pemakanan, Pengkelasan)": 3,
+          "Bahan (Sifat Asas, Kegunaan)": 3,
+          "Tenaga (Haba, Cahaya, Elektrik, Bunyi)": 5,
+          "Bumi & Angkasa (Sistem Solar, Pasang Surut)": 3
+        },
+        "skillType": [
+          "COMPREHENSION",
+          "APPLICATION",
+          "ANALYSIS"
+        ],
+        "difficultyDistribution": {
+          "easy": 40,
+          "medium": 50,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[English UASA exam paper]"
+        ]
+      },
+      "Bahasa Inggeris": {
+        "count": 20,
+        "topics": {
+          "Reading (Comprehension, Poetry)": 5,
+          "Writing (Essays, Emails, Reports)": 5,
+          "Grammar (Tenses, Modal Verbs, Conditionals)": 4,
+          "Vocabulary (Themes: Environment, Technology, Health)": 3,
+          "Listening Comprehension": 3
+        },
+        "skillType": [
+          "COMPREHENSION",
+          "APPLICATION",
+          "ANALYSIS"
+        ],
+        "difficultyDistribution": {
+          "easy": 40,
+          "medium": 50,
+          "hard": 10
+        },
+        "referenceFiles": [
+          "[English UASA exam paper]",
+          "[English UASA exam paper]",
+          "[English UPSA exam paper]",
+          "[English UPSA exam paper]",
+          "[English year-level textbook]"
+        ]
+      }
+    }
+  },
+  {
+    "year": "Tahun 5",
+    "totalQuestions": 100,
+    "bySubject": {
+      "Bahasa Melayu": {
+        "count": 30,
+        "topics": {
+          "Pemahaman (Petikan Pelbagai Jenis, Grafik)": 5,
+          "Penulisan (Karangan Pelbagai Jenis)": 6,
+          "Tatabahasa (Ayat Majmuk, Kata Hubung, Imbuhan)": 6,
+          "Perbendaharaan Kata (Peribahasa, Simpulan Bahasa)": 5,
+          "Sajak (Puisi Melayu Moden)": 3,
+          "Pemahaman Petikan Berimaginasi": 3,
+          "Bahasa Lisan (Hujah, Refleksi)": 2
+        },
+        "skillType": [
+          "COMPREHENSION",
+          "APPLICATION",
+          "ANALYSIS"
+        ],
+        "difficultyDistribution": {
+          "easy": 30,
+          "medium": 55,
+          "hard": 15
+        },
+        "referenceFiles": [
+          "[BM end-of-year exam paper]",
+          "[BM end-of-year exam paper]",
+          "[BM end-of-year exam paper]"
+        ]
+      },
+      "Mathematics": {
+        "count": 28,
+        "topics": {
+          "Nombor Bulat (Hingga 1,000,000)": 3,
+          "Operasi Bergabung (Termasuk Pecahan & Perpuluhan)": 5,
+          "Pecahan (Tambah, Tolak, Darab, Bahagi)": 3,
+          "Perpuluhan (Semua Operasi)": 2,
+          "Peratusan (Aplikasi Kompleks)": 3,
+          "Wang (Operasi, Diskaun, Cukai, Untung/Rugi)": 3,
+          "Panjang, Jisim, Isipadu Cecair, Masa & Waktu": 4,
+          "Ruang (Isipadu, Luas Permukaan)": 2,
+          "Koordinat, Nisbah & Kadaran": 2,
+          "Pengurusan Data (Purata, Mod, Median)": 1
+        },
+        "skillType": [
+          "APPLICATION",
+          "PROBLEM_SOLVING",
+          "ANALYSIS"
+        ],
+        "difficultyDistribution": {
+          "easy": 30,
+          "medium": 55,
+          "hard": 15
+        },
+        "referenceFiles": [
+          "primary/Math/Tahun5/exercises/kemon/*.pdf",
+          "(ISIPADU CECAIR, JISIM, KOORDINAT, MASA, NISBAH, PANJANG, PECAHAN, PENGURUSAN DATA, PERATUS, PERPULUHAN, RUANG, WANG)"
+        ]
+      },
+      "Science": {
+        "count": 22,
+        "topics": {
+          "Sistem Tubuh Manusia (Semua Sistem)": 4,
+          "Tumbuhan (Fotosintesis, Pengkelasan)": 3,
+          "Haiwan (Pembiakan, Ekosistem)": 3,
+          "Bahan (Asid, Alkali, Logam, Bukan Logam)": 3,
+          "Tenaga (Semua Bentuk)": 4,
+          "Bumi & Angkasa (Fenomena, Sistem Solar)": 3,
+          "Teknologi & Inovasi (Pengenalan)": 2
+        },
+        "skillType": [
+          "COMPREHENSION",
+          "APPLICATION",
+          "ANALYSIS"
+        ],
+        "difficultyDistribution": {
+          "easy": 35,
+          "medium": 50,
+          "hard": 15
+        },
+        "referenceFiles": [
+          "[TAHUN5 reference material]"
+        ]
+      },
+      "Bahasa Inggeris": {
+        "count": 20,
+        "topics": {
+          "Reading (Comprehension, Novel Excerpts)": 5,
+          "Writing (Essays, Letters, Reports)": 5,
+          "Grammar (Tenses, Conditionals, Passive Voice)": 4,
+          "Vocabulary (Themes: Society, Technology, Media)": 3,
+          "Listening Comprehension": 3
+        },
+        "skillType": [
+          "COMPREHENSION",
+          "APPLICATION",
+          "ANALYSIS"
+        ],
+        "difficultyDistribution": {
+          "easy": 30,
+          "medium": 55,
+          "hard": 15
+        },
+        "referenceFiles": [
+          "[English UASA exam paper]",
+          "[English UASA exam paper]",
+          "[English UPSA exam paper]",
+          "[English supplementary reader]"
+        ]
+      }
+    }
+  },
+  {
+    "year": "Tahun 6",
+    "totalQuestions": 100,
+    "bySubject": {
+      "Bahasa Melayu": {
+        "count": 30,
+        "topics": {
+          "Pemahaman (UPSR Format, Petikan Kompleks)": 6,
+          "Penulisan (Karangan Pelbagai Jenis, Esei Pendek)": 6,
+          "Tatabahasa (Semua Aspek)": 5,
+          "Perbendaharaan Kata (Peribahasa, Simpulan Bahasa, Bahasa Standard)": 4,
+          "Sajak & Prosa Tradisional": 3,
+          "Pemahaman Petikan Bergrafik (Carta, Jadual, Infografik)": 4,
+          "Bahasa Lisan (Diskusi, Debat)": 2
+        },
+        "skillType": [
+          "COMPREHENSION",
+          "APPLICATION",
+          "ANALYSIS"
+        ],
+        "difficultyDistribution": {
+          "easy": 25,
+          "medium": 55,
+          "hard": 20
+        },
+        "referenceFiles": [
+          "[BM Y6 reference doc A]",
+          "[BM Y6 reference doc B]",
+          "[BM Y6 reference doc C]",
+          "[BM Y6 module practice set]",
+          "[BM Y6 module practice set]",
+          "[BM Y6 module practice set]"
+        ]
+      },
+      "Mathematics": {
+        "count": 28,
+        "topics": {
+          "Nombor Bulat (Semua Operasi)": 3,
+          "Pecahan (Operasi Gabungan)": 4,
+          "Perpuluhan (Operasi Gabungan)": 3,
+          "Peratusan (Aplikasi Kompleks, Cukai, Diskaun)": 3,
+          "Wang (Operasi, Faedah, Pelaburan)": 2,
+          "Panjang, Jisim, Isipadu Cecair, Masa & Waktu": 4,
+          "Ruang (Isipadu, Luas Permukaan, Isipadu Gabungan)": 4,
+          "Koordinat, Nisbah & Kadaran": 2,
+          "Pengurusan Data (Semua Topik)": 3
+        },
+        "skillType": [
+          "APPLICATION",
+          "PROBLEM_SOLVING",
+          "ANALYSIS"
+        ],
+        "difficultyDistribution": {
+          "easy": 25,
+          "medium": 55,
+          "hard": 20
+        },
+        "referenceFiles": [
+          "primary/Math/Tahun6/exercises/kemon/*.pdf",
+          "(KOORDINAT, MASA, OPERASI ASAS, PANJANG-JISIM-ISIPADU, PECAHAN, PERATUS, RUANG, WANG, LATIHAN Y6*.pdf)"
+        ]
+      },
+      "Science": {
+        "count": 22,
+        "topics": {
+          "Sistem Tubuh Manusia (Semua Sistem + Gangguan)": 4,
+          "Tumbuhan (Fotosintesis, Ekosistem)": 3,
+          "Haiwan (Ekosistem, Biodiversiti)": 3,
+          "Bahan (Sebatian, Campuran, Tindak Balas)": 3,
+          "Tenaga (Semua Bentuk)": 3,
+          "Bumi & Angkasa (Fenomena, Cuaca Angkasa)": 3,
+          "Teknologi & Inovasi (Aplikasi)": 3
+        },
+        "skillType": [
+          "COMPREHENSION",
+          "APPLICATION",
+          "ANALYSIS"
+        ],
+        "difficultyDistribution": {
+          "easy": 25,
+          "medium": 55,
+          "hard": 20
+        },
+        "referenceFiles": [
+          "[TAHUN6 reference material]"
+        ]
+      },
+      "Bahasa Inggeris": {
+        "count": 20,
+        "topics": {
+          "Reading (UPSR Comprehension, Novel Excerpts)": 5,
+          "Writing (Essays, Formal Letters, Reports)": 5,
+          "Grammar (Advanced: Mixed Tenses, Conditionals)": 4,
+          "Vocabulary (Themes: Global Issues, Technology, Media)": 3,
+          "Listening Comprehension": 3
+        },
+        "skillType": [
+          "COMPREHENSION",
+          "APPLICATION",
+          "ANALYSIS"
+        ],
+        "difficultyDistribution": {
+          "easy": 25,
+          "medium": 55,
+          "hard": 20
+        },
+        "referenceFiles": [
+          "[TAHUN6 reference material]"
+        ]
+      }
+    }
+  }
+]
