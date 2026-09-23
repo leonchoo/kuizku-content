@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 1,
+  "schoolTrack": "SK",
+  "stage": "primary",
+  "curriculum": "KSSR",
+  "languageBySubject": {
+    "bm": "ms",
+    "english": "en",
+    "math": "en",
+    "science": "en"
+  },
+  "yearLabels": {
+    "Y1": "Tahun 1",
+    "Y2": "Tahun 2",
+    "Y3": "Tahun 3",
+    "Y4": "Tahun 4",
+    "Y5": "Tahun 5",
+    "Y6": "Tahun 6"
+  },
+  "subjectLabels": {
+    "bm": "Bahasa Melayu",
+    "english": "English",
+    "math": "Mathematics",
+    "science": "Science"
+  },
+  "status": "finalized",
+  "licenseStatus": "self_authored",
+  "commercialReuseAllowed": true,
+  "examYear": null,
+  "totalQuestionsProduction": 12070,
+  "totalQuestionsProductionAllFiles": 12095,
+  "years": {
+    "Y1": {
+      "subjects": {
+        "bm": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "batch01_sk_bm_y1.json",
+            "batch02_sk_bm_y1.json",
+            "batch03_sk_bm_y1.json",
+            "batch04_sk_bm_y1.json",
+            "batch05_sk_bm_y1.json",
+            "batch06_sk_bm_y1.json",
+            "batch07_sk_bm_y1.json"
+          ],
+          "publicFiles": [
+            "batch01.json",
+            "batch02.json",
+            "batch03.json",
+            "batch04.json",
+            "batch05.json",
+            "batch06.json",
+            "batch07.json"
+          ],
+          "language": "ms",
+          "gradeLevel": "Tahun 1",
+          "subjectLabel": "Bahasa Melayu"
+        },
+        "english": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 475,
+          "productionFiles": [
+            "batch01_sk_en_y1_rev3.json",
+            "batch02_sk_en_y1.json",
+            "batch03_sk_en_y1.json",
+            "batch04_sk_en_y1.json",
+            "batch05_sk_en_y1.json",
+            "batch06_sk_en_y1.json",
+            "batch07_sk_en_y1.json"
+          ],
+          "publicFiles": [
+            "batch01.rev3.json",
+            "batch03.json",
+            "batch04.json",
+            "batch05.json",
+            "batch06.json",
+            "batch07.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 1",
+          "subjectLabel": "English"
+        },
+        "math": {
+          "productionQuestionCount": 570,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "batch02_sk_math_y1.json",
+            "batch03_sk_math_y1.json",
+            "batch04_sk_math_y1.json",
+            "batch05_sk_math_y1.json",
+            "batch06_sk_math_y1.json",
+            "batch07_sk_math_y1.json",
+            "batch08_sk_math_y1.json",
+            "batch09_sk_math_y1.json"
+          ],
+          "publicFiles": [
+            "batch01.json",
+            "batch02.json",
+            "batch03.json",
+            "batch04.json",
+            "batch05.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 1",
+          "subjectLabel": "Mathematics"
+        },
+        "science": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 450,
+          "productionFiles": [
+            "batch01_sk_science_y1.json",
+            "batch02_sk_science_y1.json",
+            "batch03_sk_science_y1.json",
+            "batch04_sk_science_y1.json",
+            "batch05_sk_science_y1.json",
+            "batch06_sk_science_y1.json"
+          ],
+          "publicFiles": [
+            "batch02.json",
+            "batch03.json",
+            "batch04.json",
+            "batch05.json",
+            "batch06.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 1",
+          "subjectLabel": "Science"
+        }
+      }
+    },
+    "Y2": {
+      "subjects": {
+        "bm": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_bm_y2_500.json"
+          ],
+          "publicFiles": [
+            "y2.json"
+          ],
+          "language": "ms",
+          "gradeLevel": "Tahun 2",
+          "subjectLabel": "Bahasa Melayu"
+        },
+        "english": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_english_y2_500.json"
+          ],
+          "publicFiles": [
+            "y2.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 2",
+          "subjectLabel": "English"
+        },
+        "math": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_math_y2_500.json"
+          ],
+          "publicFiles": [
+            "y2.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 2",
+          "subjectLabel": "Mathematics"
+        },
+        "science": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_science_y2_500.json"
+          ],
+          "publicFiles": [
+            "y2.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 2",
+          "subjectLabel": "Science"
+        }
+      }
+    },
+    "Y3": {
+      "subjects": {
+        "bm": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_bm_y3_500.json"
+          ],
+          "publicFiles": [
+            "y3.json"
+          ],
+          "language": "ms",
+          "gradeLevel": "Tahun 3",
+          "subjectLabel": "Bahasa Melayu"
+        },
+        "english": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_en_y3_500.json"
+          ],
+          "publicFiles": [
+            "y3.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 3",
+          "subjectLabel": "English"
+        },
+        "math": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_math_y3_500.json"
+          ],
+          "publicFiles": [
+            "y3.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 3",
+          "subjectLabel": "Mathematics"
+        },
+        "science": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_science_y3_500.json"
+          ],
+          "publicFiles": [
+            "y3.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 3",
+          "subjectLabel": "Science"
+        }
+      }
+    },
+    "Y4": {
+      "subjects": {
+        "bm": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_bm_y4_500.json"
+          ],
+          "publicFiles": [
+            "y4.json"
+          ],
+          "language": "ms",
+          "gradeLevel": "Tahun 4",
+          "subjectLabel": "Bahasa Melayu"
+        },
+        "english": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_english_y4_500.json"
+          ],
+          "publicFiles": [
+            "y4.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 4",
+          "subjectLabel": "English"
+        },
+        "math": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_math_y4_500.json"
+          ],
+          "publicFiles": [
+            "y4.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 4",
+          "subjectLabel": "Mathematics"
+        },
+        "science": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_science_y4_500.json"
+          ],
+          "publicFiles": [
+            "y4.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 4",
+          "subjectLabel": "Science"
+        }
+      }
+    },
+    "Y5": {
+      "subjects": {
+        "bm": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_bm_y5_500.json"
+          ],
+          "publicFiles": [
+            "y5.json"
+          ],
+          "language": "ms",
+          "gradeLevel": "Tahun 5",
+          "subjectLabel": "Bahasa Melayu"
+        },
+        "english": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_english_y5_500.json"
+          ],
+          "publicFiles": [
+            "y5.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 5",
+          "subjectLabel": "English"
+        },
+        "math": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_math_y5_500.json"
+          ],
+          "publicFiles": [
+            "y5.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 5",
+          "subjectLabel": "Mathematics"
+        },
+        "science": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_science_y5_500.json"
+          ],
+          "publicFiles": [
+            "y5.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 5",
+          "subjectLabel": "Science"
+        }
+      }
+    },
+    "Y6": {
+      "subjects": {
+        "bm": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_bm_y6_500.json"
+          ],
+          "publicFiles": [
+            "y6.json"
+          ],
+          "language": "ms",
+          "gradeLevel": "Tahun 6",
+          "subjectLabel": "Bahasa Melayu"
+        },
+        "english": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_english_y6_500.json"
+          ],
+          "publicFiles": [
+            "y6.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 6",
+          "subjectLabel": "English"
+        },
+        "math": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_math_y6_500.json"
+          ],
+          "publicFiles": [
+            "y6.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 6",
+          "subjectLabel": "Mathematics"
+        },
+        "science": {
+          "productionQuestionCount": 500,
+          "publicQuestionCount": 500,
+          "productionFiles": [
+            "sk_science_y6_500.json"
+          ],
+          "publicFiles": [
+            "y6.json"
+          ],
+          "language": "en",
+          "gradeLevel": "Tahun 6",
+          "subjectLabel": "Science"
+        }
+      }
+    }
+  },
+  "notes": {
+    "supersededProductionFiles": [
+      "batch01_sk_en_y1.json (replaced by batch01_sk_en_y1_rev3.json) — original 25 Qs preserved for audit trail"
+    ],
+    "knownProductionToPublicGaps": [
+      "Y1 EN batch02_sk_en_y1.json (25 Qs, sk-en-y1-026..050) — production only, not in public",
+      "Y1 Math batch02_sk_math_y1.json (20 Qs, v5-sk-math-y1-031..050) — production only, not in public",
+      "Y1 Science batch01_sk_science_y1.json (50 Qs, sk-science-y1-001..050) — production only, not in public"
+    ],
+    "historicalNamingDifference": "Y1 Math public files batch02-batch05 contain production batches 06-09 (different numbering scheme used during historical Y1 upload). These are NOT real mismatches — they are pre-existing historical alignment differences.",
+    "auditDate": "2026-09-24",
+    "auditor": "MiniApp consolidation script (read-only)",
+    "policyApplied": "Do not modify content per directive. Report gaps only."
+  }
+}
