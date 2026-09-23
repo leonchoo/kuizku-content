@@ -382,21 +382,21 @@
       "subjectId": "sk-sec-en-t3",
       "subjectCode": "en",
       "topic": "Grammar",
-      "subtopic": "Third conditional sentence",
+      "subtopic": "First conditional real future application",
       "skillType": "RECOGNITION",
       "difficulty": 1,
       "language": "en",
-      "questionText": "Identify the third conditional sentence.",
+      "questionText": "Tom says: 'If I finish my homework early tonight, I will play football with my brother.' What type of conditional is Tom using?",
       "questionType": "SINGLE_CHOICE",
       "options": {
-        "a": "If I had studied harder, I would have passed.",
-        "b": "If I study harder, I will pass.",
-        "c": "If I studied harder, I would pass.",
-        "d": "If I study, I pass."
+        "a": "First conditional (real future possibility).",
+        "b": "Zero conditional (general truth).",
+        "c": "Second conditional (hypothetical present).",
+        "d": "Third conditional (past hypothetical)."
       },
       "correctAnswer": "a",
       "correctAnswerLabel": "A",
-      "explanation": "Third conditional: If + had + past participle, would have + past participle (past hypothetical).",
+      "explanation": "First conditional: If + present simple, will + base verb = real future possibility.",
       "contentOrigin": "ORIGINAL",
       "licenseStatus": "self_authored",
       "commercialReuseAllowed": true,
@@ -405,7 +405,7 @@
       "stage": "secondary",
       "gradeLevel": "T3",
       "curriculum": "KSSM",
-      "blueprintArchetype": "conditional_usage"
+      "blueprintArchetype": "first_conditional_application"
     },
     {
       "questionId": "sk-sec-en-t3-013",
